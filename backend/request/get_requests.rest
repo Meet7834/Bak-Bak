@@ -1,5 +1,0 @@
-### Get request for all the chats:
-GET http://localhost:3000/api/chat
-
-### Get request for particular chat
-GET http://localhost:3000/api/chat/617a518c4081150716472c78
